@@ -2,7 +2,7 @@
 
 This repository contains a [Custom Azure Function Extension](https://blog.siliconvalve.com/2023/02/20/build-your-own-azure-functions-binding-extensions/) which is used to interact with text files on AWS' S3 Object Storage service.
 
-The implementation is trivial and would likely need additional work to be suitable for production use.
+**NOTE:** The implementation is trivial and would likely need additional work to be suitable for production use. Don't use it in production, OK.
 
 If you read the linked blog in the first paragraph you can see how you can test out the resulting assembly produced by this project.
 
